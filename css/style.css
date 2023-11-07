@@ -11,22 +11,22 @@
 /*PARTE HEADER*/
 
 .header-bg {
-    background-color: black;
+    background-color: rgb(10, 10, 10);
     color: white;
 }
 
 /*PARTE MAIN*/
 
 .bg-main1 {
-    background-color: rgb(101, 155, 155);
+    background-color: rgb(42, 208, 242);
 }
 
 .bg-main2 {
-    background-color: beige;
+    background-color: rgb(255, 255, 255);
 }
 
 .bg-form {
-    background-color: rgb(233, 194, 194);
+    background-color: rgb(42, 208, 242);
 }
 
 #portofoliopic {
@@ -37,14 +37,14 @@
 /*PARTE CARDS*/
 
 .card-body-1 {
-    background-color: burlywood;
+    background-color: rgb(255, 255, 255);
     max-width: 100%;
 }
 
 .card {
     margin-bottom: 4rem;
     border: 0;
-    box-shadow: 0px 0px 8px 0.3px rgba(0, 0, 0, 1);
+    box-shadow: 0px 0px 8px 0.3px rgb(124, 123, 123);
 
   }
 
@@ -52,12 +52,13 @@
 
   }
 
-  .btn {
+  .btn-bg {
+    background-color:rgb(42, 208, 242);
   }
 
 
   /*PARTE FOOTER*/
 
 .bg-footer {
-    background-color: rgb(23, 28, 58);
+    background-color: rgb(26, 28, 29);
 }
