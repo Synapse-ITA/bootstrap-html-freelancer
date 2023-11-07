@@ -10,3 +10,18 @@
     background-color: black;
     color: white;
 }
+
+/*PARTE MAIN*/
+
+.bg-main1 {
+    background-color: rgb(101, 155, 155);
+}
+
+.bg-main2 {
+    background-color: beige;
+}
+
+#portofoliopic {
+    width: 400px;
+    height: auto;
+}
