@@ -51,3 +51,10 @@
   .btn {
     max-width: 100%;
   }
+
+
+  /*PARTE FOOTER*/
+
+.bg-footer {
+    background-color: rgb(23, 28, 58);
+}
